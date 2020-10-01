@@ -7,5 +7,5 @@ Some cool but small web dev projects
 # PrivadoTimer
 ![](PrivadoTimer-master/screenshots/1.png)
 
-# NeomorphismClock
-![](Neomorphism/screenshots/1.png)
+# NeumorphismClock
+![](Neumorphism/screenshots/1.png)
