@@ -1,0 +1,17 @@
+.container{
+    height:300px;
+    width:100%;
+    font-size:72px;
+    text-align: center;
+}
+
+#display{
+    width:100%;
+    font-size:50px;
+    text-align: center;
+    margin:0px auto;
+}
+
+#btn{
+    text-align: center;
+}
