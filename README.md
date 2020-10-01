@@ -8,4 +8,4 @@ Some cool but small web dev projects
 ![](PrivadoTimer-master/screenshots/1.png)
 
 # NeumorphismClock
-![](Neumorphism/screenshots/1.png)
+![](NeumorphismClock/screenshots/1.png)
